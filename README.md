@@ -20,4 +20,4 @@ https://tonypoku-ghub.github.io/horiseon-refactoring/
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/60792525/162255541-f812441f-0b28-4bd5-8002-4402aa8581e5.png)
+![image](https://user-images.githubusercontent.com/60792525/162322680-3fcad68e-6cd1-4489-b838-70e07e2fd1ab.png)
