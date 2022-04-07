@@ -16,7 +16,7 @@ Some of the refactoring tasks completed were:
 
 # Link to refactored page
 
-https://tonypoku-ghub.github.io/refactoring/
+https://tonypoku-ghub.github.io/horiseon-refactoring/
 
 # Screenshot
 
