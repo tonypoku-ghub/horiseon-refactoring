@@ -83,13 +83,13 @@ footer h2 {
     margin-left: 25px;
 }
 
-.content {
+.content-article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+.benefits-article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -100,17 +100,17 @@ footer h2 {
     background-color: #2589bd;
 }
 
-.benefit-item {
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-item h3 {
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-item img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
